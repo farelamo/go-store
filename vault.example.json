@@ -1,0 +1,18 @@
+{
+  "APP_PORT": "",
+  "JWT_ACCESS_TOKEN_EXPIRATION": "",
+  "JWT_REFRESH": "",
+  "JWT_REFRESH_TOKEN_EXPIRATION": "",
+  "JWT_SECRET": "",
+  "LOG_LEVEL": "",
+  "MYSQL_DB_NAME": "",
+  "MYSQL_HOST": "",
+  "MYSQL_PASSWORD": "",
+  "MYSQL_PORT": "",
+  "MYSQL_USER": "",
+  "PHPMYADMIN_DEFAULT_PORT": "",
+  "PHPMYADMIN_PORT": "",
+  "REDIS_DB": "",
+  "REDIS_HOST": "",
+  "REDIS_PORT": ""
+}
