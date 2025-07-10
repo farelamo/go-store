@@ -1,9 +1,6 @@
 # README
 
-## Project Name: Hayo
-
-### Description
-Hayo is a project designed to explore and document the concepts related to the Big Bang theory. This repository contains resources, code, and documentation to support the study and understanding of cosmology.
+## Project Name: Go-Store
 
 ### Design Architecture
 This project uses the repository pattern due to minimalistic cyclic import while working, such as DDD or the hexagonal pattern, etc. Also, the repository pattern has been chosen for easy maintenance & faster coding for those faced with the rapid timeline. The use case/service layer will be used to separate the complex logic only (this project does not have heavy business logic).
