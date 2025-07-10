@@ -28,6 +28,7 @@ This project uses the repository pattern due to minimalistic cyclic import while
     ```
 6. Go to the documentation (Im using Apidog)
    [Documentation Link](https://app.apidog.com/invite/project?token=s63KVaWBFgMpTNWRM3c73)
+   or use this link [Apidog Link](https://go-store.apidog.io)
 
 7. Run to your locally with apidog or export it to your loved api docs
 
