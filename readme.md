@@ -8,11 +8,11 @@ This project uses the repository pattern due to minimalistic cyclic import while
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hayo.git
+    git clone https://github.com/farelamo/go-store.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd hayo
+    cd go-store
     ```
 3. Build docker
     ```bash
